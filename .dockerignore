@@ -3,3 +3,4 @@
 *.md
 .git
 streamlit_app.py
+.png
